@@ -45,6 +45,9 @@ footer{
     overflow: hidden;
 }
 
+.career p{
+    text-align: left;
+
 /**画面ごとに変更のデザイン**/
 /**PC用**/
 @media screen and (min-width: 1024px){
