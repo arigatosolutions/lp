@@ -45,9 +45,6 @@ footer{
     overflow: hidden;
 }
 
-.career p{
-    text-align: left;
-
 /**画面ごとに変更のデザイン**/
 /**PC用**/
 @media screen and (min-width: 1024px){
@@ -291,16 +288,17 @@ footer{
     .gray-box2{
         background-color: #EDEDF4;
         margin-top: 80px;
-        text-align: center;
     }
 
     .prof{
         padding-top: 50px;
+        text-align: center;
     }
 
     .gray-box2 img{
         width: 600px;
         height: 350px;
+        text-align: center;
     }
 
     .career{
@@ -308,6 +306,7 @@ footer{
         padding-right: 20%;
         padding-left: 20%;
         padding-bottom: 40px;
+        text-align: center;
     }
 
     .career p{
